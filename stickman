@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T02:52:12.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="U81z3prwLoGRjiz0Ipiz" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T02:55:29.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Vzy-nBhKbWRoqwNW-2Nk" version="20.8.16" type="github">
   <diagram name="Page-1" id="nuxwR8Vkg36TOqQwl1U5">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="GdQE46HHqlMQo5XsJwPC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GdQE46HHqlMQo5XsJwPC-1" target="GdQE46HHqlMQo5XsJwPC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GdQE46HHqlMQo5XsJwPC-1" value="loadAsseet(Json)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="GdQE46HHqlMQo5XsJwPC-1" value="loadAsseet(Json)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="145" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GdQE46HHqlMQo5XsJwPC-2" value="Load assets" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="130" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
